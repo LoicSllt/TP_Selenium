@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/loicf/Documents/I2/S8/Test/Fichier_Selenium/PhantomJS/phantomjsdriver-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/loicf/Documents/I2/S8/Test/Fichier_Selenium/Selenium_Standalone_Server/selenium-server-standalone-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
